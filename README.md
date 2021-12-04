@@ -2,11 +2,11 @@
 
 The [Adafruit PyGamer](https://www.adafruit.com/product/4242) is a small $45 gaming handheld for DIY development in CircuitPython, MakeCode Arcade or Arduino, sold as a PCB without enclosure.
 
-I bought one, and while there's an option for a lasercut case, I didn't love how the bolts/nults stick out of the back, and I like the look of the exposed PCB front, so I'm experimenting with a few 3D printed or machined case options to hold it and the optional battery and speaker. I posted an image on twitter and a few people asked me if I would share the STL, so this is a tiny repo just for that.
+I bought one, and while there's an option for a lasercut case, I didn't love how the bolts/nults stick out of the back, and I like the look of the exposed PCB front, so I'm experimenting with a few 3D printed or machined case options to hold it and the optional battery and speaker. I posted an image on twitter and a few people asked me if I would share the STL, so this is a tiny repo just for that (see STL in file list above).
 
 ![animation of pygamer in case](pygamer-backcase1.gif)
 
-The current case works, but because this was a quick one-evening design after measuring the PCB by hand, the fit around the top connectors is off. I'm printing a second version soon (Dec 2021) and will update this if it fits well.
+The current case works, but because this was a quick one-evening design after measuring the PCB by hand, the fit around the top connectors leaves some open space. I'm printing a second version soon (Dec 2021) and will update this if it fits better.
 
 ## Fabrication
 
