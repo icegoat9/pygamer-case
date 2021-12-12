@@ -16,7 +16,7 @@ I made it using SLS (selective laser sintered) Nylon, which has nice resolution 
 
 v1 was assembled with M3x4mm nylon screws carefully tapped directly into the slightly-undersized holes in the 3D print, which is not advised if you want to be able to open and close it many times as it's easy to destroy the threads doing this... 
 
-For the current version (v4) I reduced the hole size for M2.5 fasteners since I own that tap, and tapped directly into the 3D printed plastic (with tap guide to help keep it straight), and used M2.5x6mm black oxide button head screws for a sleek look.
+For the current version I reduced the hole size for M2.5 fasteners since I own that tap, and tapped directly into the 3D printed plastic (with tap guide to help keep it straight), and used M2.5x6mm black oxide button head screws for a sleek look.
 
 ![](images/pygamer_v4_tap.JPG)
 
